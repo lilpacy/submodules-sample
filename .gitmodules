@@ -1,0 +1,6 @@
+[submodule "repoA"]
+	path = repoA
+	url = git@github.com:lilpacy/repoA.git
+[submodule "repoB"]
+	path = repoB
+	url = git@github.com:lilpacy/repoB.git
